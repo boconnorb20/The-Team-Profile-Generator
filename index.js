@@ -79,7 +79,7 @@ async function addEmployee(member) {
 }
 
 async function addManager() {
-  console.log("Lets start building your team");
+  console.log("We are going to build your team");
   await addEmployee("Manager");
   let member = "";
   let exit = "No more to add";
