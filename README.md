@@ -8,8 +8,10 @@
   * [Testing](#Testing)    
   * [Questions/Inquiries](#Questions/Inquiries)
   ## Description
-  The application is a command line run application. It is designed to take the users data input and create cards displaying your selected team. 
-  https://drive.google.com/file/d/1DUIFioTHmMs_62qy-Jc6HmLOaDYgxqvl/view?usp=sharing  
+  The application is a command line run application. It is designed to take the users data input and create cards displaying your selected team.   
+
+https://user-images.githubusercontent.com/80371646/125839715-d2f6a198-f1ef-4943-a4bd-0b75a5793d4a.mp4
+   
   ## Installation Instructions 
   To start we ran "npm init" by running this command it will create your package.json. Next we will install "inquirer" and "jest" for our dependacies. 
   ## Usage Instructions
@@ -18,7 +20,7 @@
 
   
   ## License
-   MIT License
+   MIT License /github/license/:user/:repo
   ## Contributing Members
   Brian O'Connor
   ## Testing 
