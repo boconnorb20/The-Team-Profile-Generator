@@ -19,6 +19,9 @@
   Brian O'Connor
   ## Testing 
    The program was built and tested using class syntax and constructor functions. The tests were all ran with a successful return. 
+   
+   ![The_Team_Profile_Generator_Test](https://user-images.githubusercontent.com/80371646/125837306-cd624327-4866-4f32-afb3-da8f92a0e023.gif)
+
   ## Questions/Inquiries 
   ### GitHub Profile
   [GitHub Profile](http://github.com/boconnorb20)
