@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/80371646/125839715-d2f6a198-f1ef-4943-
 
   
   ## License
-   MIT License /github/license/:user/:repo
+   MIT License 
   ## Contributing Members
   Brian O'Connor
   ## Testing 
