@@ -14,6 +14,9 @@
   To start we ran "npm init" by running this command it will create your package.json. Next we will install "inquirer" and "jest" for our dependacies. 
   ## Usage Instructions
   The user will initiate the application by typing "node index.js" in the command line. Then the user will be prompted to answer a series of questions regarding his/her team members. Once completed a index.html file will be generated to show the team created in the browser. 
+  <img width="1186" alt="Screen Shot 2021-07-15 at 1 11 42 PM" src="https://user-images.githubusercontent.com/80371646/125838091-103f5cde-e6cf-4852-9ddd-b640fb01726e.png">
+
+  
   ## License
    MIT License
   ## Contributing Members
