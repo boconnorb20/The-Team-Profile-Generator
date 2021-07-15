@@ -6,7 +6,7 @@ const path = require("path");
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
-const display = require("./lib/htmlGenerator");
+const display = require("./lib/HTMLGen");
 
 
 const PATH_DIR = path.resolve(__dirname, "dist");
@@ -46,7 +46,7 @@ async function generateHTML() {
     fs.mkdirSync(PATH_DIR);
   }
   fs.writeFileSync(outputPath, html, "utf-8");
-  console.log("Successfully created an index.html page!");
+  console.log("Successfully created a index.html page!");
 }
 
 let employees = [];

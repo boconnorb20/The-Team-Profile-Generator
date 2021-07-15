@@ -1,24 +1,29 @@
 {
-  "name": "The-Team-Profile-Generator",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/boconnorb20/The-Team-Profile-Generator.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Brian",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/boconnorb20/The-Team-Profile-Generator/issues"
   },
   "homepage": "https://github.com/boconnorb20/The-Team-Profile-Generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.1",
+    "inquirer": "^8.1.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
     "jest": "^27.0.6"
   }
 }
